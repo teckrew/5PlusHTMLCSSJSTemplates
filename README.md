@@ -34,18 +34,16 @@ A stunning personal portfolio website to showcase your work.
 
 **Features:**
 - Animated hero section with gradient background
-- About section with skills showcase
+- Full screen page
+- Each section in a lightbox modal
 - Projects grid with hover effects
-- Contact form with validation
-- Smooth scroll animations
-- Dark/Light mode toggle
 - Fully responsive design
 
 **Tech Stack:** HTML5, CSS3, Vanilla JavaScript
 
 **Perfect for:** Developers, designers, freelancers, students
 
-**[Live Demo](#) | [Download](./Template-1-Portfolio)**
+**[Live Demo](https://html5up.net/dimension) | [Download](https://github.com/teckrew/5PlusHTMLCSSJSTemplates/archive/refs/heads/main.zip)**
 
 ---
 
@@ -54,10 +52,9 @@ High-converting landing page template designed for maximum impact.
 
 **Features:**
 - Eye-catching hero section with CTA
+- Smooth Parallax Scroll Effect
 - Feature highlights with icons
-- Testimonials slider
-- Pricing tables (3 tiers)
-- FAQ accordion section
+- Testimonials/Pricing tables
 - Newsletter signup form
 - Mobile-first responsive design
 
@@ -65,7 +62,7 @@ High-converting landing page template designed for maximum impact.
 
 **Perfect for:** SaaS products, services, marketing campaigns, product launches
 
-**[Live Demo](#) | [Download](./Template-2-Landing)**
+**[Live Demo](https://html5up.net/landed) | [Download](https://github.com/teckrew/5PlusHTMLCSSJSTemplates/archive/refs/heads/main.zip)**
 
 ---
 
@@ -84,7 +81,7 @@ Immersive 3D parallax scrolling experience that captivates visitors.
 
 **Perfect for:** Creative portfolios, agency websites, interactive storytelling
 
-**[Live Demo](#) | [Download](./Template-3-3D-Parallax)**
+**[Live Demo](https://tympanus.net/Tutorials/the-substance/) | [Download](https://github.com/teckrew/5PlusHTMLCSSJSTemplates/archive/refs/heads/main.zip)**
 
 ---
 
@@ -92,7 +89,6 @@ Immersive 3D parallax scrolling experience that captivates visitors.
 Solid 3D design elements without parallax scrolling.
 
 **Features:**
-- 3D card transformations
 - Isometric design elements
 - CSS 3D transforms
 - Hover-triggered animations
@@ -103,7 +99,7 @@ Solid 3D design elements without parallax scrolling.
 
 **Perfect for:** Modern portfolios, tech startups, creative agencies
 
-**[Live Demo](#) | [Download](./Template-3.1-3D-Solid)**
+**[Live Demo](https://cruip.com/demos/solid/) | [Download](https://github.com/teckrew/5PlusHTMLCSSJSTemplates/archive/refs/heads/main.zip)**
 
 ---
 
@@ -122,7 +118,8 @@ Curated collection of CodePen-inspired interactive components.
 
 **Perfect for:** Component library, learning resources, inspiration
 
-**[Live Demo](#) | [Download](./Template-3.2-Codepens)**
+**[Live Demo | Code ](https://codepen.io/pehaa/pen/zYxbxQg)
+**[Live Demo | Code ](https://codepen.io/PixelPerfectLabs/pen/dPYVpyO)
 
 ---
 
@@ -133,7 +130,7 @@ Beautiful, animated form templates with smooth interactions.
 - Login form with animated gradient background
 - Signup form with validation
 - Contact form with floating labels
-- Password strength indicator
+- Password hide/show
 - Glassmorphism effects
 - Smooth input animations
 - Error/success states
@@ -142,7 +139,9 @@ Beautiful, animated form templates with smooth interactions.
 
 **Perfect for:** Authentication pages, contact pages, user registration
 
-**[Live Demo](#) | [Download](./Template-4-Animated-Forms)**
+**[Live Demo/Code](https://github.com/puikinsh/login-forms/tree/main/forms/elegant-portfolio) | [Download](https://github.com/teckrew/5PlusHTMLCSSJSTemplates/archive/refs/heads/main.zip)**
+**[Live Demo/Code](https://github.com/puikinsh/login-forms/tree/main/forms/ai-assistant)**
+**[Live Demo/Code](https://github.com/puikinsh/login-forms/tree/main/forms/retro-future)**
 
 ---
 
@@ -153,26 +152,29 @@ Collection of 10+ stunning button hover effects.
 - Slide effect
 - Glow effect
 - 3D transform
-- Ripple animation
-- Liquid fill
 - Border animation
 - Gradient shift
 - Neon pulse
-- Magnetic hover
 - Particle burst
 
 **Tech Stack:** Pure CSS (Zero JavaScript)
 
 **Perfect for:** CTAs, interactive elements, UI enhancement
 
-**[Live Demo](#) | [Download](./Template-5-Animated-Buttons)**
+**[Live Demo/Code](https://uiverse.io/Mike11jr/perfect-badger-81) | [Download](https://github.com/teckrew/5PlusHTMLCSSJSTemplates/archive/refs/heads/main.zip)**
+**[Live Demo/Code](https://uiverse.io/0xnihilism/pretty-fireant-33)**
+**[Live Demo/Code](https://uiverse.io/marcelodolza/stupid-vampirebat-24)**
+**[Live Demo/Code](https://uiverse.io/SupportHotline/odd-wasp-42)**
+**[Live Demo/Code](https://uiverse.io/Itskrish01/soft-skunk-68)**
+**[Live Demo/Code](https://uiverse.io/SelfMadeSystem/weak-mole-88)**
+**[Live Demo/Code](https://uiverse.io/MuhammadHasann/mean-bird-62)**
 
 ---
 
 ## 🚀 Quick Start
 
 ### Option 1: Download Individual Template
-```bash
+
 # Navigate to the template folder you want
 cd Template-1-Portfolio
 
@@ -194,3 +196,63 @@ All templates use CSS variables for easy customization:
   --primary-color: #6366f1;
   --secondary-color: #8b5cf6;
   --text-color: #1f2937;
+
+---
+
+## 🙏 Acknowledgments & Credits
+
+This collection was made possible thanks to the incredible open-source web development community. Special recognition to:
+
+### 🌟 **HTML5 UP**
+- **Website:** <cite><a href="https://html5up.net/">html5up.net</a></cite>
+- **Creator:** [@ajlkn](https://twitter.com/ajlkn)
+- **License:** [Creative Commons Attribution 3.0](https://html5up.net/license)
+
+HTML5 UP provides beautifully designed, fully responsive HTML5 and CSS3 site templates that have inspired millions of developers worldwide. Their commitment to free, high-quality resources sets the standard for the community.
+
+**Templates inspired by HTML5 UP principles:**
+- Template 1 - Portfolio
+- Template 2 - Landing Page
+
+---
+
+### ✨ **Codrops (Tympanus)**
+- **Website:** <cite><a href="https://tympanus.net/codrops/">tympanus.net/codrops</a></cite>
+- **Team:** [Codrops Team](https://tympanus.net/codrops/about/)
+- **License:** Varies by project - see individual demos
+
+Codrops is a leading web design and development blog publishing cutting-edge experiments, tutorials, and innovative techniques. Their work continuously pushes the boundaries of modern web development.
+
+**Templates inspired by Codrops techniques:**
+- Template 3 - 3D Parallax
+
+---
+
+### 🎨 **Uiverse.io**
+- **Website:** <cite><a href="https://uiverse.io/">uiverse.io</a></cite>
+- **Community:** Open-source UI elements library
+- **License:** MIT License (individual elements may vary)
+
+Uiverse is a vibrant community-driven platform offering thousands of free, open-source UI elements created by developers worldwide. Their collection of buttons, forms, loaders, and interactive components showcases the creativity of modern CSS and JavaScript.
+
+**Templates inspired by Uiverse.io:**
+- Template 4 - Animated Forms
+- Template 5 - Animated Buttons
+
+---
+
+### 💙 **Community Resources**
+
+Additional inspiration and learning from:
+- Template 3.2 - CodePens Collection
+- **CodePen Community** - Creative experiments and demos
+
+---
+
+### 📜 **License & Usage**
+
+These templates are provided under the MIT License. You are free to use, modify, and distribute them in personal and commercial projects. **However**, please respect the original licenses of HTML5 UP (CC BY 3.0), Codrops, and Uiverse.io resources when using their inspired elements.
+
+**Attribution is appreciated but not required.**
+
+---
