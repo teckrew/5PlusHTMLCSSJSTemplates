@@ -20,12 +20,21 @@ Perfect for developers, students, freelancers, and anyone looking to build stunn
 ## 🗂️ Template Overview
 
 ### 🎁 **Bonus Template**
-A lightweight starter template with best practices built-in.
-- Clean folder structure
-- CSS variables for easy customization
-- Responsive grid system
-- Optimized for fast loading
+One of the best template to use for your organisation
+- Template Built with Bootstrap 5
+- Fully responsive design across all devices
+- Increase interaction
+- Adaptive design for all devices
+- Save Time and Resources
+- Premium High-Quality Design
+- 8+ Page Templates
+- Establish Credibility
+- Designed for Agency
+- Drive more conversions
+
 - **Perfect for:** Quick prototypes, learning projects
+
+**[Live Demo](https://bootstrapdemos.wrappixel.com/studiova/src/html/index.html) | [Download](https://github.com/teckrew/5PlusHTMLCSSJSTemplates/archive/refs/heads/main.zip)**
 
 ---
 
