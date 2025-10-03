@@ -118,8 +118,8 @@ Curated collection of CodePen-inspired interactive components.
 
 **Perfect for:** Component library, learning resources, inspiration
 
-**[Live Demo | Code ](https://codepen.io/pehaa/pen/zYxbxQg)
-**[Live Demo | Code ](https://codepen.io/PixelPerfectLabs/pen/dPYVpyO)
+**[Live Demo | Code ](https://codepen.io/pehaa/pen/zYxbxQg)**
+**[Live Demo | Code ](https://codepen.io/PixelPerfectLabs/pen/dPYVpyO)**
 
 ---
 
@@ -140,7 +140,9 @@ Beautiful, animated form templates with smooth interactions.
 **Perfect for:** Authentication pages, contact pages, user registration
 
 **[Live Demo/Code](https://github.com/puikinsh/login-forms/tree/main/forms/elegant-portfolio) | [Download](https://github.com/teckrew/5PlusHTMLCSSJSTemplates/archive/refs/heads/main.zip)**
+
 **[Live Demo/Code](https://github.com/puikinsh/login-forms/tree/main/forms/ai-assistant)**
+
 **[Live Demo/Code](https://github.com/puikinsh/login-forms/tree/main/forms/retro-future)**
 
 ---
@@ -162,11 +164,17 @@ Collection of 10+ stunning button hover effects.
 **Perfect for:** CTAs, interactive elements, UI enhancement
 
 **[Live Demo/Code](https://uiverse.io/Mike11jr/perfect-badger-81) | [Download](https://github.com/teckrew/5PlusHTMLCSSJSTemplates/archive/refs/heads/main.zip)**
+
 **[Live Demo/Code](https://uiverse.io/0xnihilism/pretty-fireant-33)**
+
 **[Live Demo/Code](https://uiverse.io/marcelodolza/stupid-vampirebat-24)**
+
 **[Live Demo/Code](https://uiverse.io/SupportHotline/odd-wasp-42)**
+
 **[Live Demo/Code](https://uiverse.io/Itskrish01/soft-skunk-68)**
+
 **[Live Demo/Code](https://uiverse.io/SelfMadeSystem/weak-mole-88)**
+
 **[Live Demo/Code](https://uiverse.io/MuhammadHasann/mean-bird-62)**
 
 ---
